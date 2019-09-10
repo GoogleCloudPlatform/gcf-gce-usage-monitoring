@@ -1,0 +1,6 @@
+{
+        "MONITORING_METRIC_PROJECT_ID": "YOUR_PROJECT_ID",
+        "MONITORING_METRIC_NAME": "custom.googleapis.com/gce_footprint/vms",
+  		"TOKEN": "99a9ffa8797a629783cb4aa762639e92b098bac5",
+        "LIFECYCLE": "ACTIVE"
+}

@@ -1,0 +1,4 @@
+{	
+  "PROJECTS_WRITE_TOPIC" : "projects/YOUR_PROJECT_ID/topics/write_to_stackdriver",
+  "TOKEN": "99a9ffa8797a629783cb4aa762639e92b098bac5"
+}
