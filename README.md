@@ -224,7 +224,7 @@ gcloud scheduler jobs list | grep "gce_footprint"
 
 ## Run the tests
 
-1. Follow the [tutorial](https://docs.google.com/document/d/1Y23rRg2oYBSDvw0XV4AADEyqA5HCAl9RBMr96gT1Ioo/edit) to deploy the Cloud Functions to your project. 
+1. Follow the steps above to deploy the Cloud Functions to your project. 
 
     Make a note of your GCP project id and the token value that you generate during the deployment. 
 
